@@ -1,4 +1,4 @@
-# Food Recognition and Nutrition Estimation
+# 🍎🥦Food Recognition and Nutrition Estimation
 
 This project uses a deep learning model to recognize different types of food from images and estimate their nutritional values (calories, carbs, protein, fat).
 
