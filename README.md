@@ -65,5 +65,3 @@ Upload an image of food and get its predicted nutrition values.
 - Improve accuracy with transfer learning (MobileNetV2, EfficientNet, etc.)
 - Add allergen detection and dietary suggestions
 
----
-👩‍💻 Developed by [Your Name]
